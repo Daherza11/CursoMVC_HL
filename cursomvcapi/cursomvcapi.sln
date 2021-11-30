@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cursomvcapi", "cursomvcapi\cursomvcapi.csproj", "{1982C0C8-A161-4EC1-899D-4EBA98BAF102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1982C0C8-A161-4EC1-899D-4EBA98BAF102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1982C0C8-A161-4EC1-899D-4EBA98BAF102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1982C0C8-A161-4EC1-899D-4EBA98BAF102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1982C0C8-A161-4EC1-899D-4EBA98BAF102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764EAFB9-6201-4F4C-B273-11B0BA5BC846}
+	EndGlobalSection
+EndGlobal
